@@ -1,4 +1,4 @@
-# atmosphere-project
+# atmosphere
 
 Atmos allows a user to choose a genre of music and search for accompanying visuals to create a totally unique experience every time.
 The problem we are trying to solve is to allow the user to create a personalized experience without video editing knowledge or without requiring the use of multiple apps/browsers to achieve the same goal. 
