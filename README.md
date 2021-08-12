@@ -7,6 +7,6 @@ We used the Spotify and Youtube APIS to retrieve the playlist/video ID informati
 ![115965798-c9d5aa80-a4f8-11eb-9b56-289a818908cd](https://user-images.githubusercontent.com/78614719/129213738-344bdd1f-1e4e-42ed-afcd-a76ed8709d21.png)
 
 
-
-https://drive.google.com/file/d/1ftZ3L5dWzQLsDalrujEcNT0CpYFL7fEQ/view![Screen Shot 2021-04-24 at 12 28 50 PM]
+Demo video:
+https://drive.google.com/file/d/1ftZ3L5dWzQLsDalrujEcNT0CpYFL7fEQ/view
 
